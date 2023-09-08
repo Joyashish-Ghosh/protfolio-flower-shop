@@ -51,7 +51,10 @@ font-size: 18px;
 font-style: normal;
 font-weight: 400;
 line-height: 20px; 
-font position: 0;
+
+}
+.m{
+    text-align: center;
 }
 .pic{
     display: flex;
